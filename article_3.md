@@ -4,4 +4,4 @@
 - Go back to Costa Rica 
 - Learn as much about different cultures as possible 
 
-<img scr= "https://live.staticflickr.com/3311/3434623631_732401bb81_b.jpg" height= 250px/>
+<img src= "https://live.staticflickr.com/3311/3434623631_732401bb81_b.jpg" height= 250px/>

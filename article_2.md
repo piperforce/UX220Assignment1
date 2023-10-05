@@ -4,4 +4,4 @@
 - Be financially stable 
 - Have my student loans paid off
 
-<img scr= "https://www.thedrive.com/uploads/2022/07/06/Bullnose-Ford-Hero.jpg?auto=webp" height= 250px/>
+<img src= "https://www.thedrive.com/uploads/2022/07/06/Bullnose-Ford-Hero.jpg?auto=webp" height= 250px/>
